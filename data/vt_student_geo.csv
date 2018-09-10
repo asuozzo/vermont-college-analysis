@@ -1,0 +1,58 @@
+UNITID,school,region,students,percent
+230816,Bennington College,in-state,9.0,0.04128440366972477
+230834,Castleton University,in-state,315.0,0.6617647058823529
+230852,Champlain College,in-state,106.0,0.15987933634992457
+230861,Community College of Vermont,in-state,522.0,0.9321428571428572
+230889,Goddard College,in-state,1.0,0.1111111111111111
+230898,Green Mountain College,in-state,19.0,0.152
+230913,Johnson State College,in-state,151.0,0.7156398104265402
+230931,Lyndon State College,in-state,161.0,0.6075471698113207
+230940,Marlboro College,in-state,2.0,0.03636363636363636
+230959,Middlebury College,in-state,27.0,0.04455445544554455
+230977,New England Culinary Institute,in-state,14.0,0.2692307692307692
+230995,Norwich University,in-state,77.0,0.09637046307884856
+231059,Saint Michael's College,in-state,66.0,0.14285714285714285
+231077,College of St Joseph,in-state,27.0,0.5094339622641509
+231086,Southern Vermont College,in-state,19.0,0.25
+231095,Sterling College,in-state,5.0,0.18518518518518517
+231165,Vermont Technical College,in-state,181.0,0.8302752293577982
+231174,University of Vermont,in-state,524.0,0.20985182218662396
+247649,Landmark College,in-state,3.0,0.028846153846153848
+230816,Bennington College,international,35.0,0.16055045871559634
+230834,Castleton University,international,14.0,0.029411764705882353
+230852,Champlain College,international,8.0,0.012066365007541479
+230861,Community College of Vermont,international,3.0,0.005357142857142857
+230889,Goddard College,international,2.0,0.2222222222222222
+230898,Green Mountain College,international,4.0,0.032
+230913,Johnson State College,international,0.0,0.0
+230931,Lyndon State College,international,0.0,0.0
+230940,Marlboro College,international,1.0,0.01818181818181818
+230959,Middlebury College,international,56.0,0.0924092409240924
+230977,New England Culinary Institute,international,1.0,0.019230769230769232
+230995,Norwich University,international,13.0,0.016270337922403004
+231059,Saint Michael's College,international,11.0,0.023809523809523808
+231077,College of St Joseph,international,0.0,0.0
+231086,Southern Vermont College,international,0.0,0.0
+231095,Sterling College,international,0.0,0.0
+231165,Vermont Technical College,international,3.0,0.013761467889908258
+231174,University of Vermont,international,26.0,0.010412494993992792
+247649,Landmark College,international,3.0,0.028846153846153848
+230816,Bennington College,out-of-state,174.0,0.7981651376146789
+230834,Castleton University,out-of-state,147.0,0.3088235294117647
+230852,Champlain College,out-of-state,549.0,0.8280542986425339
+230861,Community College of Vermont,out-of-state,35.0,0.0625
+230889,Goddard College,out-of-state,6.0,0.6666666666666666
+230898,Green Mountain College,out-of-state,102.0,0.816
+230913,Johnson State College,out-of-state,60.0,0.2843601895734597
+230931,Lyndon State College,out-of-state,104.0,0.39245283018867927
+230940,Marlboro College,out-of-state,52.0,0.9454545454545454
+230959,Middlebury College,out-of-state,523.0,0.863036303630363
+230977,New England Culinary Institute,out-of-state,37.0,0.7115384615384616
+230995,Norwich University,out-of-state,709.0,0.8873591989987485
+231059,Saint Michael's College,out-of-state,385.0,0.8333333333333334
+231077,College of St Joseph,out-of-state,26.0,0.49056603773584906
+231086,Southern Vermont College,out-of-state,57.0,0.75
+231095,Sterling College,out-of-state,22.0,0.8148148148148148
+231165,Vermont Technical College,out-of-state,34.0,0.1559633027522936
+231174,University of Vermont,out-of-state,1947.0,0.7797356828193832
+247649,Landmark College,out-of-state,98.0,0.9423076923076923
