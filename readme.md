@@ -1,4 +1,4 @@
-This analysis is best run using [Jupyter Lab](https://github.com/jupyterlab/jupyterlab), which I highly recommend trying. My data analysis environment uses Python 3, with Pandas for analysis and Altair for visualization.
+This analysis is best run using [Jupyter Lab](https://github.com/jupyterlab/jupyterlab). My data analysis environment uses Python 3, with Pandas for analysis and Altair for visualization.
 
 All files in the `raw_data` folder are from the [IPEDS Data Center](https://nces.ed.gov/ipeds/use-the-data), under `Survey Data` > `Complete Data Files`. Beware the size of that folder; the data files in it are very large. If you don't want to download the whole shebang, you can download files and dictionaries for individual years and/or subset the data using the tools provided through that data portal.
 
